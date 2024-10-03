@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\ListaPOOex2\ListaPOOex2\obj\Debug\ListaPOOex2.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\ListaPOOex2\ListaPOOex2\obj\Debug\ListaPOOex2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\ListaPOOex2\ListaPOOex2\obj\Debug\ListaPOOex2.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\ListaPOOex2\ListaPOOex2\bin\Debug\ListaPOOex2.exe.config
+C:\Users\aluno\source\repos\ListaPOOex2\ListaPOOex2\bin\Debug\ListaPOOex2.exe
+C:\Users\aluno\source\repos\ListaPOOex2\ListaPOOex2\bin\Debug\ListaPOOex2.pdb
+C:\Users\aluno\source\repos\ListaPOOex2\ListaPOOex2\obj\Debug\ListaPOOex2.exe
+C:\Users\aluno\source\repos\ListaPOOex2\ListaPOOex2\obj\Debug\ListaPOOex2.pdb
