@@ -4,20 +4,30 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ListaPOOex3
+namespace Lista1Ex4
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Quadrado2 qd=new Quadrado2();
+            Triangulo tri;
+            tri = new Triangulo();
 
-            Console.WriteLine("Digite o valor da diagonal: ");
-            qd.setDiagonal(int.Parse(Console.ReadLine()));
+            Console.WriteLine("digite o valor da base: ");
+            tri.setBase(int.Parse(Console.ReadLine()));
 
-            qd.calcularArea();
+            Console.WriteLine("digite o valor da altura: ");
+            tri.setAltura(int.Parse(Console.ReadLine()));
 
-            Console.WriteLine("A área do quadrado é: {0}", qd.getArea());
+            tri.calcularArea();
+
+            Console.WriteLine("o valor da area do triangulo e: ");
+            Console.WriteLine(tri.getArea());
+
+
+
+
+
         }
     }
 }
