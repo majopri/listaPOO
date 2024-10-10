@@ -4,25 +4,26 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lista1Ex7
+namespace Lista1Ex10
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Dolar valor;
-            valor = new Dolar();
+            Terreno t;
+            t = new Terreno();
 
-            Console.WriteLine(" Digite o valor da cotação do dólar:   ");
-            valor.setCotacao(double.Parse(Console.ReadLine()));
+            Console.WriteLine(" Digite o valor da base");
+            t.setBase(double.Parse(Console.ReadLine()));
 
-            Console.WriteLine("Digite a quatidade de dólares:  ");
-            valor.setDolar(double.Parse(Console.ReadLine()));
+            Console.WriteLine(" Digite o valor da altura");
+            t.setAltura(double.Parse(Console.ReadLine()));
 
-            valor.calcularReais();
+            t.calcularArea();
+            Console.WriteLine("Area é: {0} - {1}", t.getArea(), t.getMaiorExtenso());
 
-            Console.Write(" O valor em Reais é:   ");
-            Console.WriteLine(valor.getReais());
+
+
 
         }
     }

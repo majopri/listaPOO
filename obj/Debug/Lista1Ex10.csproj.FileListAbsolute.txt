@@ -1,0 +1,7 @@
+C:\Users\Positivo\OneDrive\Área de Trabalho\Programação 2\Lista1Ex10\obj\Debug\Lista1Ex10.csproj.AssemblyReference.cache
+C:\Users\Positivo\OneDrive\Área de Trabalho\Programação 2\Lista1Ex10\obj\Debug\Lista1Ex10.csproj.CoreCompileInputs.cache
+C:\Users\Positivo\OneDrive\Área de Trabalho\Programação 2\Lista1Ex10\bin\Debug\Lista1Ex10.exe.config
+C:\Users\Positivo\OneDrive\Área de Trabalho\Programação 2\Lista1Ex10\bin\Debug\Lista1Ex10.exe
+C:\Users\Positivo\OneDrive\Área de Trabalho\Programação 2\Lista1Ex10\bin\Debug\Lista1Ex10.pdb
+C:\Users\Positivo\OneDrive\Área de Trabalho\Programação 2\Lista1Ex10\obj\Debug\Lista1Ex10.exe
+C:\Users\Positivo\OneDrive\Área de Trabalho\Programação 2\Lista1Ex10\obj\Debug\Lista1Ex10.pdb

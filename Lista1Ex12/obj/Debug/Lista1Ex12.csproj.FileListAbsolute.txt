@@ -1,0 +1,7 @@
+C:\Users\Positivo\OneDrive\Área de Trabalho\Programação 2\Lista1Ex12\bin\Debug\Lista1Ex12.exe.config
+C:\Users\Positivo\OneDrive\Área de Trabalho\Programação 2\Lista1Ex12\bin\Debug\Lista1Ex12.exe
+C:\Users\Positivo\OneDrive\Área de Trabalho\Programação 2\Lista1Ex12\bin\Debug\Lista1Ex12.pdb
+C:\Users\Positivo\OneDrive\Área de Trabalho\Programação 2\Lista1Ex12\obj\Debug\Lista1Ex12.csproj.AssemblyReference.cache
+C:\Users\Positivo\OneDrive\Área de Trabalho\Programação 2\Lista1Ex12\obj\Debug\Lista1Ex12.csproj.CoreCompileInputs.cache
+C:\Users\Positivo\OneDrive\Área de Trabalho\Programação 2\Lista1Ex12\obj\Debug\Lista1Ex12.exe
+C:\Users\Positivo\OneDrive\Área de Trabalho\Programação 2\Lista1Ex12\obj\Debug\Lista1Ex12.pdb
